@@ -1,0 +1,7 @@
+C:\Users\KAB-36-1\source\repos\Siglov_Ababiy\Siglov_Ababiy\bin\Debug\Siglov_Ababiy.exe.config
+C:\Users\KAB-36-1\source\repos\Siglov_Ababiy\Siglov_Ababiy\bin\Debug\Siglov_Ababiy.exe
+C:\Users\KAB-36-1\source\repos\Siglov_Ababiy\Siglov_Ababiy\bin\Debug\Siglov_Ababiy.pdb
+C:\Users\KAB-36-1\source\repos\Siglov_Ababiy\Siglov_Ababiy\obj\Debug\Siglov_Ababiy.csproj.AssemblyReference.cache
+C:\Users\KAB-36-1\source\repos\Siglov_Ababiy\Siglov_Ababiy\obj\Debug\Siglov_Ababiy.csproj.CoreCompileInputs.cache
+C:\Users\KAB-36-1\source\repos\Siglov_Ababiy\Siglov_Ababiy\obj\Debug\Siglov_Ababiy.exe
+C:\Users\KAB-36-1\source\repos\Siglov_Ababiy\Siglov_Ababiy\obj\Debug\Siglov_Ababiy.pdb
